@@ -1,0 +1,20 @@
+
+/* Aquí van tus estilos CSS */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #818488;
+}
+
+h1 {
+    color: #333;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #dcdfe3;
+    border-radius: 5px;
+}
